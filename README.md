@@ -1,9 +1,11 @@
-# [Zindi] Fraud Detection in Electricity and Gas Consumption Cameroon Challenge
+# [Zindi] Data Science Approach to STEG Fraud Detection in Electricity and Gas Consumption Cameroon Challenge
 
-Description
+Project Description:
 
-The Tunisian Company of Electricity and Gas (STEG) is a public and a non-administrative company, it is responsible for delivering electricity and gas across Tunisia. The company suffered tremendous losses in the order of 200 million Tunisian Dinars due to fraudulent manipulations of meters by consumers.
+In this data-driven endeavor, the Tunisian Company of Electricity and Gas (STEG) faces a pressing issue. As a public entity responsible for the distribution of electricity and gas across Tunisia, STEG has suffered substantial financial losses, exceeding 200 million Tunisian Dinars, due to the fraudulent manipulation of utility meters by consumers.
 
-Several other companies as well as the Tunisian Company of Electricity and Gas suffer from this scourge which is very detrimental to their activities. The objective at this level is to propose methods of determining fraudulent customers from the history of their consumption.
+This challenge extends beyond STEG; numerous other companies, including the Tunisian Company of Electricity and Gas, grapple with similar issues that pose significant threats to their operational efficiency. The core objective of this data science project is to harness the power of data analytics and machine learning to craft robust methodologies for identifying and flagging customers involved in fraudulent activities. 
 
-We will also rank solutions according to their tidiness. This will be reflected by a subjective score based on the following criteria: reproducibility, readability, creativity.
+By leveraging historical consumption data and applying advanced data science techniques, we aim to uncover patterns, anomalies, and behaviors indicative of fraudulent consumption practices. The success of these data-driven solutions will be evaluated based on their data quality, predictive performance, and scalability.
+
+In addition to developing effective fraud detection models, we will rank the proposed data science solutions based on their data tidiness and overall quality. Our evaluation criteria will encompass reproducibility, model interpretability, and innovation to ensure that the chosen data science approaches not only combat fraud but also contribute to the refinement of electricity and gas consumption management through data-driven insights and actionable strategies.
